@@ -7,3 +7,7 @@
 2. Python Loops: Medical Insurance Estimates vs. Costs Project
    
    [Click here to download the Jupyter Note Book on Github](https://github.com/DelphCL/Python-projects/blob/bf18e41de24419396c0135c92972df5e96d5cbe2/Python%20Loops%20Medical%20Insurance%20Estimates%20vs%20Costs.ipynb)
+
+3. Frida Kahlo Restrospective Off-Platform Project
+
+   [Click here to download the Jupyter Note Book on Github](https://github.com/DelphCL/Python-projects/blob/50b4c75284e3fb2999c6c82b21da43a628d8b816/frida_project.ipynb)
