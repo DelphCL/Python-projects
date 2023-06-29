@@ -11,3 +11,7 @@
 3. Frida Kahlo Retrospective Off-Platform Project
 
    [Click here to download the Jupyter Note Book on Github](https://github.com/DelphCL/Python-projects/blob/50b4c75284e3fb2999c6c82b21da43a628d8b816/frida_project.ipynb)
+
+4. Python Strings: Medical Insurance Project
+
+    [Click here to download the Jupyter Note Book on Github](https://github.com/DelphCL/Python-projects/blob/5e43019d2ee0206932229a7f253de365b25b2f2a/Python%20Strings%20Medical%20Insurance.ipynb)
