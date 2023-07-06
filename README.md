@@ -15,3 +15,7 @@
 4. Python Strings: Medical Insurance Project
 
     [Click here to download the Jupyter Note Book on Github](https://github.com/DelphCL/Python-projects/blob/5e43019d2ee0206932229a7f253de365b25b2f2a/Python%20Strings%20Medical%20Insurance.ipynb)
+
+5. Python Strings: Coded Correspondence Project
+
+    [Click here to download the Jupyter Note Book on Github](https://github.com/DelphCL/Python-projects/blob/770002af8953f5317ff65f950e73c97e41480e8c/coded_correspondence.ipynb)
