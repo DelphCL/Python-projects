@@ -22,7 +22,9 @@
 
 6. Python Dictionaries: Medical Insurance Project
 
-       [Click here to download the Jupyter Note Book on Github](https://github.com/DelphCL/Python-projects/blob/20bbacb38a0babf51bcd1c7943e006b2d023adc4/Python%20Dictionaries%20Medical%20Insurance.ipynb)
+   [Click here to download the Jupyter Note Book on Github](https://github.com/DelphCL/Python-projects/blob/20bbacb38a0babf51bcd1c7943e006b2d023adc4/Python%20Dictionaries%20Medical%20Insurance.ipynb)
+
+   
    
    
    
