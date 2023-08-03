@@ -19,3 +19,8 @@
 5. Python Strings: Coded Correspondence Project
 
     [Click here to download the Jupyter Note Book on Github](https://github.com/DelphCL/Python-projects/blob/770002af8953f5317ff65f950e73c97e41480e8c/coded_correspondence.ipynb)
+
+6. Python Dictionaries: Medical Insurance Project
+
+       [Click here to download the Jupyter Note Book on Github](https://github.com/DelphCL/Python-projects/blob/8de7e587afc76934ecb5e721418d35443b3a9562/Python%20Dictionaries%20Medical%20Insurance.ipynb)
+   
