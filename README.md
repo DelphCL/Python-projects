@@ -25,7 +25,7 @@
    [Click here to download the Jupyter Note Book on Github](https://github.com/DelphCL/Python-projects/blob/20bbacb38a0babf51bcd1c7943e006b2d023adc4/Python%20Dictionaries%20Medical%20Insurance.ipynb)
 
 
-   7. Portfolio Project: U.S. Medical Insurance
+7. Portfolio Project: U.S. Medical Insurance
 
 [Click here to download the Jupyter Note Book on Github](https://github.com/DelphCL/Python-projects/blob/745a973e0576ba513a28958c4ea679e5b5ad0444/python-portfolio-project-starter-files/us-medical-insurance-costs.ipynb)
 
