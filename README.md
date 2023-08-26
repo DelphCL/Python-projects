@@ -34,3 +34,14 @@
 8. Portfolio Project: Cleaning US Census Data
 
 [Click here to download the Jupyter Note Book on Github](https://github.com/DelphCL/Python-projects/blob/633476365cce8e33c5c0435db5bdbfc60fafebe5/Cleaning%20US%20Census%20Data/Cleaning%20US%20Census%20Data.ipynb)
+
+[Click here to download the CSV file 0 on GitHub](https://github.com/DelphCL/Python-projects/blob/1d02462b0c5e89ab6afe067788f4880f6edc2474/Cleaning%20US%20Census%20Data/states0.csv)
+[Click here to download the CSV file 1 on GitHub](https://github.com/DelphCL/Python-projects/blob/1d02462b0c5e89ab6afe067788f4880f6edc2474/Cleaning%20US%20Census%20Data/states1.csv)
+[Click here to download the CSV file 2 on GitHub](https://github.com/DelphCL/Python-projects/blob/1d02462b0c5e89ab6afe067788f4880f6edc2474/Cleaning%20US%20Census%20Data/states2.csv)
+[Click here to download the CSV file 3 on GitHub](https://github.com/DelphCL/Python-projects/blob/1d02462b0c5e89ab6afe067788f4880f6edc2474/Cleaning%20US%20Census%20Data/states3.csv)
+[Click here to download the CSV file 4 on GitHub](https://github.com/DelphCL/Python-projects/blob/1d02462b0c5e89ab6afe067788f4880f6edc2474/Cleaning%20US%20Census%20Data/states4.csv)
+[Click here to download the CSV file 5 on GitHub](https://github.com/DelphCL/Python-projects/blob/1d02462b0c5e89ab6afe067788f4880f6edc2474/Cleaning%20US%20Census%20Data/states5.csv)
+[Click here to download the CSV file 6 on GitHub](https://github.com/DelphCL/Python-projects/blob/1d02462b0c5e89ab6afe067788f4880f6edc2474/Cleaning%20US%20Census%20Data/states6.csv)
+[Click here to download the CSV file 7 on GitHub](https://github.com/DelphCL/Python-projects/blob/1d02462b0c5e89ab6afe067788f4880f6edc2474/Cleaning%20US%20Census%20Data/states7.csv)
+[Click here to download the CSV file 8 on GitHub](https://github.com/DelphCL/Python-projects/blob/1d02462b0c5e89ab6afe067788f4880f6edc2474/Cleaning%20US%20Census%20Data/states8.csv)
+[Click here to download the CSV file 9 on GitHub](https://github.com/DelphCL/Python-projects/blob/1d02462b0c5e89ab6afe067788f4880f6edc2474/Cleaning%20US%20Census%20Data/states9.csv)
