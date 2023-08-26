@@ -31,4 +31,6 @@
 
 [Click here to download the CSV file on GitHub](https://github.com/DelphCL/Python-projects/blob/745a973e0576ba513a28958c4ea679e5b5ad0444/python-portfolio-project-starter-files/insurance.csv)
    
-   
+8. Portfolio Project: Cleaning US Census Data
+
+[Click here to download the Jupyter Note Book on Github](https://github.com/DelphCL/Python-projects/blob/633476365cce8e33c5c0435db5bdbfc60fafebe5/Cleaning%20US%20Census%20Data/Cleaning%20US%20Census%20Data.ipynb)
