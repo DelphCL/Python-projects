@@ -27,7 +27,7 @@
 
 7. Portfolio Project: U.S. Medical Insurance Costs 
 
-[Click here to download the Jupyter Note Book on Github](https://github.com/DelphCL/Python-projects/blob/745a973e0576ba513a28958c4ea679e5b5ad0444/python-portfolio-project-starter-files/us-medical-insurance-costs.ipynb)
+[Click here to download the Jupyter Note Book on Github](https://github.com/DelphCL/Python-projects/blob/25b2a241773f4d3c7e0e7dffc2a533eba089273a/python-portfolio-project-starter-files/us-medical-insurance-costs.ipynb)
 
 [Click here to download the CSV file on GitHub](https://github.com/DelphCL/Python-projects/blob/745a973e0576ba513a28958c4ea679e5b5ad0444/python-portfolio-project-starter-files/insurance.csv)
    
