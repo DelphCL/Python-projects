@@ -54,3 +54,8 @@
 [Click here to download the CSV file 8 on GitHub](https://github.com/DelphCL/Python-projects/blob/1d02462b0c5e89ab6afe067788f4880f6edc2474/Cleaning%20US%20Census%20Data/states8.csv)
 
 [Click here to download the CSV file 9 on GitHub](https://github.com/DelphCL/Python-projects/blob/1d02462b0c5e89ab6afe067788f4880f6edc2474/Cleaning%20US%20Census%20Data/states9.csv)
+
+9. Data Manipulation Challenge Project: This is Jeopardy
+[Click here to download the Jupyter Note Book on Github](https://github.com/DelphCL/Python-projects/blob/15036650b3787aaba8ca56bde3c558f292a675df/This%20is%20Jeopardy/This%20is%20Jeopardy.ipynb)
+
+[Click here to download the CSV file on GitHub]()
