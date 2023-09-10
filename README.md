@@ -59,5 +59,10 @@
     
 [Click here to download the Jupyter Note Book on Github](https://github.com/DelphCL/Python-projects/blob/15036650b3787aaba8ca56bde3c558f292a675df/This%20is%20Jeopardy/This%20is%20Jeopardy.ipynb)
 
-CSV file available on request - too heavy to download 
+CSV file available on request - too heavy to download
+
+10. Summarizing the Relationship between Two Features - Project: NBA Trends
+    [Click here to download the Jupyter Note Book on Github](https://github.com/DelphCL/Python-projects/blob/60c30013fdb87719c57b051c95f5838c0e5caaf5/Codecademy_NBA_Trends_Project/Codecademy_NBA_Trends_Project.ipynb)
+
+[Click here to download the CSV file on GitHub](https://github.com/DelphCL/Python-projects/blob/60c30013fdb87719c57b051c95f5838c0e5caaf5/Codecademy_NBA_Trends_Project/nba_games.csv)
 
