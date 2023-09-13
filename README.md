@@ -67,3 +67,6 @@ CSV file available on request - too heavy to download
 
 [Click here to download the CSV file on GitHub](https://github.com/DelphCL/Python-projects/blob/60c30013fdb87719c57b051c95f5838c0e5caaf5/Codecademy_NBA_Trends_Project/nba_games.csv)
 
+11. Detecting Product Defects with Probability
+    
+[Click here to download the Jupyter Note Book on Github](https://github.com/DelphCL/Python-projects/blob/62958f1f37934cf540f32d42c2b042ad25f0b89d/Product%20Defects/Product%20Defects.ipynb)
