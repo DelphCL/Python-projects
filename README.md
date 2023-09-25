@@ -70,3 +70,9 @@ CSV file available on request - too heavy to download
 11. Detecting Product Defects with Probability
     
 [Click here to download the Jupyter Note Book on Github](https://github.com/DelphCL/Python-projects/blob/62958f1f37934cf540f32d42c2b042ad25f0b89d/Product%20Defects/Product%20Defects.ipynb)
+
+12. Visualization for Exploratory Data Analysis: Airline Analysis
+    
+[Click here to download the Jupyter Note Book on Github](https://github.com/DelphCL/Python-projects/blob/b790ad5df1f96cfba72563b1536315e4a190ab86/Airline%20Analysis/Airline%20Analysis.ipynb)
+
+CSV file available on request - too heavy to download
