@@ -83,3 +83,8 @@ CSV file available on request - too heavy to download
 
 [Click here to download the CSV file on GitHub](https://github.com/DelphCL/Python-projects/blob/16289985c561778eb8a223ec1f45975db7ff06a7/Life-Expectancy-and-GDP-Starter/all_data.csv)
 
+14. Summary Statistics for Categorical Dat : Summarizing Automobile Evaluation Data
+        
+[Click here to download the Jupyter Note Book on Github](https://github.com/DelphCL/Python-projects/blob/91931e6af3a6d30678a0e350951cbff0a1a6b8b0/Summarizing%20Automobile%20Evaluation%20Data/Summarizing%20Automobile%20Evaluation%20Data.ipynb)
+
+[Click here to download the CSV file on GitHub](https://github.com/DelphCL/Python-projects/blob/91931e6af3a6d30678a0e350951cbff0a1a6b8b0/Summarizing%20Automobile%20Evaluation%20Data/car_eval_dataset.csv)
