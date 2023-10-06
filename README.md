@@ -88,3 +88,12 @@ CSV file available on request - too heavy to download
 [Click here to download the Jupyter Note Book on Github](https://github.com/DelphCL/Python-projects/blob/91931e6af3a6d30678a0e350951cbff0a1a6b8b0/Summarizing%20Automobile%20Evaluation%20Data/Summarizing%20Automobile%20Evaluation%20Data.ipynb)
 
 [Click here to download the CSV file on GitHub](https://github.com/DelphCL/Python-projects/blob/91931e6af3a6d30678a0e350951cbff0a1a6b8b0/Summarizing%20Automobile%20Evaluation%20Data/car_eval_dataset.csv)
+
+
+14. Visualization for Data Science Applications : Board Slides for FoodWheel
+            
+[Click here to download the Jupyter Note Book on Github](https://github.com/DelphCL/Python-projects/blob/467e3e9335cb8e001f94a589a53f975af7de4b07/foodwheel/foodwheel_project.ipynb)
+
+[Click here to download the restaurants CSV file on GitHub](https://github.com/DelphCL/Python-projects/blob/467e3e9335cb8e001f94a589a53f975af7de4b07/foodwheel/restaurants.csv)
+
+[Click here to download the orders CSV file on GitHub](https://github.com/DelphCL/Python-projects/blob/467e3e9335cb8e001f94a589a53f975af7de4b07/foodwheel/orders.csv)
