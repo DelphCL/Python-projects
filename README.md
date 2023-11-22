@@ -102,4 +102,6 @@ CSV file available on request - too heavy to download
     
 [Click here to download the Jupyter Note Book on Github](https://github.com/DelphCL/Python-projects/blob/4d1c9c246354fa67b28307c964ef7e3ca232a389/data-analyst-portfolio/Marketing%20Data%20analysis%20Delph%20.ipynb)
 
-[Click here to download the CSV file on GitHub](https://github.com/DelphCL/Python-projects/blob/4d1c9c246354fa67b28307c964ef7e3ca232a389/data-analyst-portfolio/marketing_data.csv)
+[Click here to download the CSV file marketing data on GitHub](https://github.com/DelphCL/Python-projects/blob/4d1c9c246354fa67b28307c964ef7e3ca232a389/data-analyst-portfolio/marketing_data.csv)
+
+[Click here to download the CSV file marketing data 2 on GitHub](https://github.com/DelphCL/Python-projects/blob/4d1c9c246354fa67b28307c964ef7e3ca232a389/data-analyst-portfolio/marketing_data%202.xlsx)
