@@ -5,7 +5,7 @@ The projects listed below demonstrate a variety of skills, including:
 - Data Analysis and Manipulation: Handling and interpreting data, statistical analysis.
 - Python Programming: Proficiency in Python, using libraries like Pandas and NumPy.
 - Data Visualization: Creating graphs and charts to represent data insights.
-- Machine Learning: Some projects may involve basic predictive modeling or data classification.
+- Machine Learning: Some projects involve basic predictive modeling or data classification.
 - Problem Solving: Applying coding skills to solve real-world problems.
 - Data Cleaning: Preparing raw data for analysis by removing or correcting data.
 - Use of Jupyter Notebooks: For interactive coding and data visualization.
