@@ -1,5 +1,5 @@
 
-![Alt text](https://github.com/DelphCL/Python-projects/blob/75a97fd3558a135aa877c4564290d011878fe61b/LOGO%202.png)
+![Alt text](https://github.com/DelphCL/Python-projects/blob/583b012c08cc7adff9c21eb6c7af7bbe95366fb9/DALL%C2%B7E%202023-12-02%2017.57.37%20-%20Design%20a%20vibrant%20and%20modern%20logo%20that%20represents%20data%20analysis%2C%20data%20visualization%2C%20and%20predictive%20modeling%2C%20with%20a%20white%20background.%20The%20logo%20should%20.png)
 
 # **Python projects from Codecademy**
 
