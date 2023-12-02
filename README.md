@@ -1,5 +1,15 @@
 # **Python projects from Codecademy**
 
+The projects listed below demonstrate a variety of skills, including:
+
+- Data Analysis and Manipulation: Handling and interpreting data, statistical analysis.
+- Python Programming: Proficiency in Python, using libraries like Pandas and NumPy.
+- Data Visualization: Creating graphs and charts to represent data insights.
+- Machine Learning: Some projects may involve basic predictive modeling or data classification.
+- Problem Solving: Applying coding skills to solve real-world problems.
+- Data Cleaning: Preparing raw data for analysis by removing or correcting data.
+- Use of Jupyter Notebooks: For interactive coding and data visualization.
+
 1. Working with Python Lists: Medical Insurance Costs Project
 
     [Click here to download the Jupyter Note book on GitHub](https://github.com/DelphCL/Python-projects/blob/03f1cb78ff3da9e89861699ecc0d23bb453699e6/Working%20with%20Python%20Lists%20Medical%20Insurance%20Costs.ipynb)
