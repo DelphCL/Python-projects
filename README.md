@@ -1,3 +1,6 @@
+
+![Alt text](https://github.com/DelphCL/Python-projects/blob/75a97fd3558a135aa877c4564290d011878fe61b/LOGO%202.png)
+
 # **Python projects from Codecademy**
 
 The projects listed below demonstrate a variety of skills, including:
